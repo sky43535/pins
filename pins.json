@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Checkers Drive-In",
+    "latitude": 44.9572,
+    "longitude": -93.1055,
+    "type": "food",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Checkers_Restaurant_Logo.svg/512px-Checkers_Restaurant_Logo.svg.png",
+    "description": "Fast-food chain serving burgers, fries, and shakes."
+  },
+  {
+    "title": "Madison Lake Elementary School",
+    "latitude": 44.2094,
+    "longitude": -93.8016,
+    "type": "school",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Elementary_school_icon.png",
+    "description": "A public elementary school in Madison Lake, MN."
+  },
+  {
+    "title": "Urgent Care - Mankato Clinic",
+    "latitude": 44.1735,
+    "longitude": -93.9912,
+    "type": "help",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Medical_icon.svg/512px-Medical_icon.svg.png",
+    "description": "Walk-in clinic for non-emergency care, open 7 days a week."
+  },
+  {
+    "title": "Starbucks",
+    "latitude": 44.9492,
+    "longitude": -93.1015,
+    "type": "food",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Starbucks_Corporation_Logo_2011.svg/512px-Starbucks_Corporation_Logo_2011.svg.png",
+    "description": "Coffeehouse chain known for its signature roasts and snacks."
+  },
+  {
+    "title": "Kennedy High School",
+    "latitude": 44.8311,
+    "longitude": -93.3090,
+    "type": "school",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Highschool_icon.svg/512px-Highschool_icon.svg.png",
+    "description": "Public high school located in Bloomington, MN."
+  }
+]
